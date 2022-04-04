@@ -1,0 +1,65 @@
+*{
+	font-family: calibri;
+}
+
+.main {
+	background:  linear-gradient(to bottom, #F1F1F1, #B6B6B6);
+	padding: 1px;
+}
+
+#title {
+	text-align: center;
+	padding-bottom: 10px;
+	margin-top: 5px;
+
+}
+
+.subtitle {
+	text-align: center;
+	padding-bottom: 15px;
+	margin-top: -20px;
+
+}
+
+#img-div {
+	background: #fff;
+	width: 700px;
+	margin: auto;
+}
+
+#img {
+	display: block;
+	margin: auto;
+
+}
+
+.canciones{
+	text-align: center;
+	font-size: 13px;
+	padding: 5px;
+}
+
+#title-2 {
+	text-align: center;
+	font-size: 45px;
+	margin: 8px;
+}
+
+#letra {
+	text-align: center;
+	margin-top: -5px;
+}
+
+#p-link {
+	text-align: center;
+	padding-top: 15px;
+	font-size: 30px;
+}
+
+#link {
+	font-weight: 700;
+}
+
+#link:hover {
+	color: #fff;
+}
